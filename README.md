@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 | - | ----- | -------- | ---------- |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./algorithms/valid_parentheses.py) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](./algorithms/longest_common_prefix.py) | Easy |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./algorithms/roman_to_integer.py) | Easy |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./algorithms/container_with_most_water.py) | Medium |

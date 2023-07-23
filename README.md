@@ -3,6 +3,7 @@
 | # | Title | Solution | Difficulty |
 | - | ----- | -------- | ---------- |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./algorithms/maximum_subarray.py) | Medium |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./algorithms/merge_two_sorted_lists.py) | Easy |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./algorithms/valid_parentheses.py) | Easy |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Python](./algorithms/3sum.py) | Medium |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](./algorithms/longest_common_prefix.py) | Easy |

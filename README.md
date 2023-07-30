@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 | - | ----- | -------- | ---------- |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](./algorithms/merge_sorted_array.py) | Easy |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./algorithms/maximum_subarray.py) | Medium |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](./algorithms/valid_sudoku.py) | Medium |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./algorithms/search_insert_position.py) | Easy

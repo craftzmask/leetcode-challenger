@@ -1,5 +1,6 @@
 # LeetCode Challenger
 
+## Algorithms
 | # | Title | Solution | Difficulty |
 | - | ----- | -------- | ---------- |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./algorithms/maximum_depth_of_binary_tree.py) | Easy |
@@ -25,3 +26,8 @@
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./algorithms/longest_substring_without_repeating_characters.py) | Medium |
 | 2 | [Add Two Number](https://leetcode.com/problems/add-two-numbers/) | [Python](./algorithms/add_two_numbers.py) | Medium |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./algorithms/two_sum.py) | Easy |
+
+## JavaScript
+| # | Title | Solution | Difficulty |
+| - | ----- | -------- | ---------- |
+| 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) | [Python](./javascript/create_hello_world_function.js) | Easy |

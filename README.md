@@ -33,3 +33,4 @@
 | 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) | [JavaScript](./javascript/create_hello_world_function.js) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter/) | [JavaScript](./javascript/counter.js) | Easy |
 | 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | [JavaScript](./javascript/to_be_or_not_to_be.js) | Easy |
+| 2665 | [Counter II](https://leetcode.com/problems/counter-ii/) | [JavaScript](./javascript/counter_ii.js) | Easy |

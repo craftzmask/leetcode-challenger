@@ -30,4 +30,5 @@
 ## JavaScript
 | # | Title | Solution | Difficulty |
 | - | ----- | -------- | ---------- |
-| 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) | [Python](./javascript/create_hello_world_function.js) | Easy |
+| 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) | [JavaScript](./javascript/create_hello_world_function.js) | Easy |
+| 2620 | [Counter](https://leetcode.com/problems/counter/) | [JavaScript](./javascript/counter.js) | Easy |

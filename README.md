@@ -34,3 +34,4 @@
 | 2620 | [Counter](https://leetcode.com/problems/counter/) | [JavaScript](./javascript/counter.js) | Easy |
 | 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | [JavaScript](./javascript/to_be_or_not_to_be.js) | Easy |
 | 2665 | [Counter II](https://leetcode.com/problems/counter-ii/) | [JavaScript](./javascript/counter_ii.js) | Easy |
+| 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [JavaScript](./javascript/apply_transform_over_each_element_in_array.js) | Easy |

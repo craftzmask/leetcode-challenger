@@ -38,4 +38,5 @@
 | 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [JavaScript](./javascript/apply_transform_over_each_element_in_array.js) | Easy |
 | 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/) | [JavaScript](./javascript/filter_elements_from_array.js) | Easy |
 | 2629 | [Function Composition](https://leetcode.com/problems/function-composition/) | [JavaScript](./javascript/function_composition.js) | Easy |
+| 2623 | [Memoize](https://leetcode.com/problems/memoize/) | [JavaScript](./javascript/memoize.js) | Medium |
 | 2620 | [Counter](https://leetcode.com/problems/counter/) | [JavaScript](./javascript/counter.js) | Easy |

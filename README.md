@@ -30,6 +30,7 @@
 ## JavaScript
 | # | Title | Solution | Difficulty |
 | - | ----- | -------- | ---------- |
+| 2725 | [Interval Cancellation](https://leetcode.com/problems/interval-cancellation/) | [JavaScript](./javascript/interval_cancellation.js) | Easy |
 | 2715 | [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation/) | [JavaScript](./javascript/timeout_cancellation.js) | Easy |
 | 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | [JavaScript](./javascript/to_be_or_not_to_be.js) | Easy |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) | [JavaScript](./javascript/return_length_of_arguments_passed.js) | Easy |

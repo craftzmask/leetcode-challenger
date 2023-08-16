@@ -30,6 +30,7 @@
 ## JavaScript
 | # | Title | Solution | Difficulty |
 | - | ----- | -------- | ---------- |
+| 2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/) | [JavaScript](./javascript/is_object_empty.js) | Easy |
 | 2725 | [Interval Cancellation](https://leetcode.com/problems/interval-cancellation/) | [JavaScript](./javascript/interval_cancellation.js) | Easy |
 | 2715 | [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation/) | [JavaScript](./javascript/timeout_cancellation.js) | Easy |
 | 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | [JavaScript](./javascript/to_be_or_not_to_be.js) | Easy |

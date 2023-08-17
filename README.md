@@ -44,3 +44,4 @@
 | 2629 | [Function Composition](https://leetcode.com/problems/function-composition/) | [JavaScript](./javascript/function_composition.js) | Easy |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize/) | [JavaScript](./javascript/memoize.js) | Medium |
 | 2620 | [Counter](https://leetcode.com/problems/counter/) | [JavaScript](./javascript/counter.js) | Easy |
+| 2619 | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/) | [JavaScript](./javascript/array_prototype_last.js) | Easy |

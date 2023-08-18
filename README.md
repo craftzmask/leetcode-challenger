@@ -12,6 +12,7 @@
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](./algorithms/valid_sudoku.py) | Medium |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./algorithms/search_insert_position.py) | Easy
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](./algorithms/search_in_rotated_sorted_array.py) | Medium |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](./algorithms/remove_duplicates_from_sorted_array.js) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./algorithms/merge_two_sorted_lists.py) | Easy |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./algorithms/valid_parentheses.py) | Easy |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](./algorithms/remove_nth_node_from_end_of_list.py) | Medium |

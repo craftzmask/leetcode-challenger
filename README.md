@@ -4,6 +4,7 @@
 | # | Title | Solution | Difficulty |
 | - | ----- | -------- | ---------- |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./algorithms/maximum_depth_of_binary_tree.py) | Easy |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [JavaScript](./algorithms/same_tree.js) | Easy |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./algorithms/binary_tree_inorder_traversal.py) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](./algorithms/merge_sorted_array.py) | Easy |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](./algorithms/remove_duplicates_from_sorted_list.py) | Easy |

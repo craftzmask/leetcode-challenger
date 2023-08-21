@@ -9,6 +9,7 @@
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](./algorithms/merge_sorted_array.py) | Easy |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](./algorithms/remove_duplicates_from_sorted_list.py) | Easy |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](./algorithms/search_a_2d_matrix.py) | Medium |
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [JavaScript](./algorithms/add_binary.js) | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](./algorithms/plus_one.js) | Easy |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [JavaScript](./algorithms/length_of_last_word.js) | Easy |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./algorithms/maximum_subarray.py) | Medium |

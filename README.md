@@ -48,6 +48,7 @@
 | 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) | [JavaScript](./javascript/create_hello_world_function.js) | Easy |
 | 2666 | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/) | [JavaScript](./javascript/allow_one_function_call.js) | Easy |
 | 2665 | [Counter II](https://leetcode.com/problems/counter-ii/) | [JavaScript](./javascript/counter_ii.js) | Easy |
+| 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | [JavaScript](/javascript/promise_time_limit.js) | Medium |
 | 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [JavaScript](./javascript/apply_transform_over_each_element_in_array.js) | Easy |
 | 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/) | [JavaScript](./javascript/filter_elements_from_array.js) | Easy |
 | 2629 | [Function Composition](https://leetcode.com/problems/function-composition/) | [JavaScript](./javascript/function_composition.js) | Easy |

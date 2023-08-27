@@ -51,6 +51,7 @@
 | 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | [JavaScript](/javascript/promise_time_limit.js) | Medium |
 | 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [JavaScript](./javascript/apply_transform_over_each_element_in_array.js) | Easy |
 | 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/) | [JavaScript](./javascript/filter_elements_from_array.js) | Easy |
+| 2631 | [Group By](https://leetcode.com/problems/group-by/) | [JavaScript](./javascript/group_by.js) | Medium |
 | 2629 | [Function Composition](https://leetcode.com/problems/function-composition/) | [JavaScript](./javascript/function_composition.js) | Easy |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize/) | [JavaScript](./javascript/memoize.js) | Medium |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/) | [JavaScript](./javascript/cache_with_time_limit.js) | Medium |

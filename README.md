@@ -40,6 +40,7 @@
 | 2726 | [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/) | [JavaScript](./javascript/calculator_with_method_chaining.js) | Easy |
 | 2725 | [Interval Cancellation](https://leetcode.com/problems/interval-cancellation/) | [JavaScript](./javascript/interval_cancellation.js) | Easy |
 | 2724 | [Sort By](https://leetcode.com/problems/sort-by/) | [JavaScript](./javascript/sort_by.js) | Easy |
+| 2722 | [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/) | [JavaScript](./javascript/join_two_arrays_by_id.js) | Medium |
 | 2715 | [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation/) | [JavaScript](./javascript/timeout_cancellation.js) | Easy |
 | 2705 | [Compact Object](https://leetcode.com/problems/compact-object/) | [JavaScript](./javascript/compact_object.js) | Medium |
 | 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | [JavaScript](./javascript/to_be_or_not_to_be.js) | Easy |

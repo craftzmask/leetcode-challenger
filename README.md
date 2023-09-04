@@ -4,6 +4,7 @@
 | # | Title | Solution | Difficulty |
 | - | ----- | -------- | ---------- |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [JavaScript](./algorithms/peak_index_in_a_mountain_array.js) | Medium |
+| 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [JavaScript](./algorithms/find_smallest_letter_greater_than_target.js) | Easy |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [JavaScript](./algorithms/find_minimum_in_rotated_sorted_array.js) | Medium |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./algorithms/maximum_depth_of_binary_tree.py) | Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [JavaScript](./algorithms/same_tree.js) | Easy |

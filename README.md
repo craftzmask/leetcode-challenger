@@ -12,6 +12,7 @@
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [JavaScript](./algorithms/two_sum_ii.js) | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [JavaScript](./algorithms/find_minimum_in_rotated_sorted_array.js) | Medium |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [JavaScript](./algorithms/valid_palindrome.js) | Easy |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [JavaScript](./algorithms/balanced_binary_tree.js) | Easy |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./algorithms/maximum_depth_of_binary_tree.py) | Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [JavaScript](./algorithms/same_tree.js) | Easy |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [JavaScript](./algorithms/validate_binary_search_tree.js) | Medium |

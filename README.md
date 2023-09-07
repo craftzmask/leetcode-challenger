@@ -10,6 +10,7 @@
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [JavaScript](./algorithms/binary_search.js) | Easy |
 | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [JavaScript](./algorithms/single_element_in_a_sorted_array.js) | Medium |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [JavaScript](./algorithms/move_zeroes.js) | Easy |
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [JavaScript](./algorithms/first_bad_version.js) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [JavaScript](./algorithms/valid_anagram.js) | Easy |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [JavaScript](./algorithms/lowest_common_ancestor_of_a_binary_search_tree.js) | Medium |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [JavaScript](./algorithms/two_sum_ii.js) | Medium |

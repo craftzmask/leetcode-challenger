@@ -11,6 +11,7 @@
 | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [JavaScript](./algorithms/single_element_in_a_sorted_array.js) | Medium |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [JavaScript](./algorithms/move_zeroes.js) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [JavaScript](./algorithms/valid_anagram.js) | Easy |
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [JavaScript](./algorithms/lowest_common_ancestor_of_a_binary_search_tree.js) | Medium |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [JavaScript](./algorithms/two_sum_ii.js) | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [JavaScript](./algorithms/find_minimum_in_rotated_sorted_array.js) | Medium |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [JavaScript](./algorithms/linked_list_cycle.js) | Easy |

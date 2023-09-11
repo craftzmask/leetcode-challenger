@@ -9,6 +9,7 @@
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [JavaScript](./algorithms/find_smallest_letter_greater_than_target.js) | Easy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [JavaScript](./algorithms/binary_search.js) | Easy |
 | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [JavaScript](./algorithms/single_element_in_a_sorted_array.js) | Medium |
+| 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [JavaScript](./algorithms/longest_palindrome.js) | Easy |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [JavaScript](./algorithms/ransom_note.js) | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [JavaScript](./algorithms/move_zeroes.js) | Easy |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [JavaScript](./algorithms/first_bad_version.js) | Easy |

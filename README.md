@@ -17,6 +17,7 @@
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [JavaScript](./algorithms/lowest_common_ancestor_of_a_binary_search_tree.js) | Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [JavaScript](./algorithms/contains_duplicate.js) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [JavaScript](./algorithms/reverse_linked_list.js) | Easy |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [JavaScript](./algorithms/majority_element.js) | Easy |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [JavaScript](./algorithms/two_sum_ii.js) | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [JavaScript](./algorithms/find_minimum_in_rotated_sorted_array.js) | Medium |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [JavaScript](./algorithms/linked_list_cycle.js) | Easy |

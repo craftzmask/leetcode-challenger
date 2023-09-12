@@ -52,7 +52,7 @@
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](./algorithms/string_to_integer.py) | Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](./algorithms/reverse_integer.py) | Medium |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./algorithms/longest_palindromic_substring.py) | Medium |
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./algorithms/longest_substring_without_repeating_characters.py) | Medium |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JavaScript](./algorithms/longest_substring_without_repeating_characters.js) | Medium |
 | 2 | [Add Two Number](https://leetcode.com/problems/add-two-numbers/) | [Python](./algorithms/add_two_numbers.py) | Medium |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./algorithms/two_sum.py) | Easy |
 

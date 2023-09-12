@@ -5,6 +5,7 @@
 | - | ----- | -------- | ---------- |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [JavaScript](./algorithms/count_good_nodes_in_binary_tree.js) | Medium |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [JavaScript](./algorithms/middle_of_the_linked_list.js) | Easy |
+| 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [JavaScript](./algorithms/koko_eating_bananas.js) | Medium |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [JavaScript](./algorithms/peak_index_in_a_mountain_array.js) | Medium |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [JavaScript](./algorithms/find_smallest_letter_greater_than_target.js) | Easy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [JavaScript](./algorithms/binary_search.js) | Easy |

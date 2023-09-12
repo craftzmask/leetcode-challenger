@@ -39,7 +39,8 @@
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./algorithms/maximum_subarray.py) | Medium |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [JavaScript](./algorithms/pow(x,n).js) | Medium |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](./algorithms/valid_sudoku.py) | Medium |
-| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./algorithms/search_insert_position.py) | Easy
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./algorithms/search_insert_position.py) | Easy |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [JavaScript](./algorithms/find_first_and_last_position_of_element_in_sorted_array.js) | Medium |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](./algorithms/search_in_rotated_sorted_array.py) | Medium |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](./algorithms/remove_duplicates_from_sorted_array.js) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./algorithms/merge_two_sorted_lists.py) | Easy |

@@ -8,6 +8,7 @@
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [JavaScript](./algorithms/koko_eating_bananas.js) | Medium |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [JavaScript](./algorithms/peak_index_in_a_mountain_array.js) | Medium |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [JavaScript](./algorithms/find_smallest_letter_greater_than_target.js) | Easy |
+| 729 | [My Calendar I](https://leetcode.com/problems/my-calendar-i/) | [JavaScript](./algorithms/my_calendar_i.js) | Medium |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [JavaScript](./algorithms/binary_search.js) | Easy |
 | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [JavaScript](./algorithms/single_element_in_a_sorted_array.js) | Medium |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [JavaScript](./algorithms/longest_palindrome.js) | Easy |

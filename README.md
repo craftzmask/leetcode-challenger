@@ -6,6 +6,7 @@
 | 2055 | [Plates Between Candles](https://leetcode.com/problems/plates-between-candles/) | [JavaScript](./algorithms/plates_between_candles.js) | Medium |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [JavaScript](./algorithms/count_good_nodes_in_binary_tree.js) | Medium |
 | 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [JavaScript](./algorithms/snapshot_array.js) | Medium |
+| 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [JavaScript](./algorithms/time_based_key_value_store.js) | Medium |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [JavaScript](./algorithms/middle_of_the_linked_list.js) | Easy |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [JavaScript](./algorithms/koko_eating_bananas.js) | Medium |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [JavaScript](./algorithms/peak_index_in_a_mountain_array.js) | Medium |

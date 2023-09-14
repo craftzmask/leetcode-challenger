@@ -13,6 +13,7 @@
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [JavaScript](./algorithms/find_smallest_letter_greater_than_target.js) | Easy |
 | 729 | [My Calendar I](https://leetcode.com/problems/my-calendar-i/) | [JavaScript](./algorithms/my_calendar_i.js) | Medium |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [JavaScript](./algorithms/binary_search.js) | Easy |
+| 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [JavaScript](./algorithms/subarray_sum_equals_k.js) | Medium |
 | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [JavaScript](./algorithms/single_element_in_a_sorted_array.js) | Medium |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [JavaScript](./algorithms/longest_palindrome.js) | Easy |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [JavaScript](./algorithms/ransom_note.js) | Easy |

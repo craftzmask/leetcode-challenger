@@ -22,6 +22,7 @@
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [JavaScript](./algorithms/move_zeroes.js) | Easy |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [JavaScript](./algorithms/first_bad_version.js) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [JavaScript](./algorithms/valid_anagram.js) | Easy |
+| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [JavaScript](./algorithms/lowest_common_ancestor_of_a_binary_tree.js) | Medium |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [JavaScript](./algorithms/lowest_common_ancestor_of_a_binary_search_tree.js) | Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [JavaScript](./algorithms/contains_duplicate.js) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [JavaScript](./algorithms/reverse_linked_list.js) | Easy |

@@ -19,6 +19,7 @@
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [JavaScript](./algorithms/longest_palindrome.js) | Easy |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [JavaScript](./algorithms/ransom_note.js) | Easy |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [JavaScript](./algorithms/reverse_vowels_of_a_string.js) | Easy |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [JavaScript](./algorithms/reverse_string.js) | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [JavaScript](./algorithms/move_zeroes.js) | Easy |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [JavaScript](./algorithms/first_bad_version.js) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [JavaScript](./algorithms/valid_anagram.js) | Easy |

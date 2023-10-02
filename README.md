@@ -16,6 +16,7 @@
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [JavaScript](./algorithms/valid_palindrome_ii.js) | Easy |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [JavaScript](./algorithms/subarray_sum_equals_k.js) | Medium |
 | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [JavaScript](./algorithms/single_element_in_a_sorted_array.js) | Medium |
+| 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [JavaScript](./algorithms/find_all_anagrams_in_a_string.js) | Medium |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [JavaScript](./algorithms/longest_palindrome.js) | Easy |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [JavaScript](./algorithms/ransom_note.js) | Easy |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [JavaScript](./algorithms/intersection_of_two_arrays_ii.js) | Easy |

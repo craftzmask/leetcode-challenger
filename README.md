@@ -1,5 +1,7 @@
 # LeetCode Challenger
 
+**Note**: I'm rebuilding this repository using JavaScript, PHP and Swift as my current used languages! 
+
 ## Algorithms
 | # | Title | Solution | Difficulty |
 | - | ----- | -------- | ---------- |

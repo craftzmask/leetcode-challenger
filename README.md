@@ -5,6 +5,7 @@
 | - | ----- | -------- | ---------- |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [Java](./java/FizzBuzz.java) | Easy |
 | 344 |  [Reverse String](https://leetcode.com/problems/reverse-string) | [Java](./java/ReverseString.java) | Easy |
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three) | [Java](./java/PowerOfThree.java) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Java](./java/ValidAnagram.java) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Java](./java/ValidPalindrome.java) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](./java/MergeSortedArray.java) | Easy |

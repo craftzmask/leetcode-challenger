@@ -3,6 +3,7 @@
 ## Algorithms
 | # | Title | Solution | Difficulty |
 | - | ----- | -------- | ---------- |
+| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [Python](./python/merge_strings_alternately.py) | Easy |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [Java](./java/FizzBuzz.java) | Easy |
 | 344 |  [Reverse String](https://leetcode.com/problems/reverse-string) | [Java](./java/ReverseString.java) | Easy |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three) | [Java](./java/PowerOfThree.java) | Easy |

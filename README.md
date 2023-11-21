@@ -4,6 +4,7 @@
 | # | Title | Solution | Difficulty |
 | - | ----- | -------- | ---------- |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [Python](./python/merge_strings_alternately.py) | Easy |
+| 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [Python](./python/kids_with_the_greatest_number_of_candies.py) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [Python](./python/greatest_common_divisor_of_strings.py) | Easy |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [Java](./java/FizzBuzz.java) | Easy |
 | 344 |  [Reverse String](https://leetcode.com/problems/reverse-string) | [Java](./java/ReverseString.java) | Easy |

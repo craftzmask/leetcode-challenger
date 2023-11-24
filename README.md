@@ -8,6 +8,7 @@
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [Python](./python/greatest_common_divisor_of_strings.py) | Easy |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [Python](./python/can_place_flowers.py) | Easy |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [Java](./java/FizzBuzz.java) | Easy |
+| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [Python](./python/reverse_vowels_of_a_string.py) | Easy |
 | 344 |  [Reverse String](https://leetcode.com/problems/reverse-string) | [Java](./java/ReverseString.java) | Easy |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three) | [Java](./java/PowerOfThree.java) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Java](./java/ValidAnagram.java) | Easy |
